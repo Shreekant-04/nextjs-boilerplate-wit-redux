@@ -11,7 +11,7 @@ This repository demonstrates how to integrate Redux Toolkit with the Next.js App
   - page.jsx — main page
   - globals.css — global styles (Tailwind-ready)
   - components/Counter.jsx — example counter component
-- edux/ — Redux wiring
+- Redux/ — Redux wiring
   - provider.jsx — React-Redux Provider wrapper used in app/layout.jsx
   - store.js — Redux store configuration (RTK)
   - eatures/counterSlice.js — example slice for the counter
