@@ -60,6 +60,7 @@ This boilerplate uses @reduxjs/toolkit and react-redux.
 The example app/components/Counter.jsx shows how to read and update state via useSelector and useDispatch (client component).
 
 Notes on Next.js App Router:
+
 - Provider must be used inside a client component or via a client wrapper. The included provider.jsx is already a client component wrapper you can import into app/layout.jsx.
 
 ## File pointers
@@ -107,11 +108,12 @@ Adjust or extend the ESLint configuration to fit your preferences.
 
 ## License
 
-This project is provided as-is. Add a LICENSE file with your preferred license if you plan to publish it.
+This project is provided as-is. MIT License.
 
 ---
 
 If you’d like, I can:
+
 - add a short usage example that shows how to connect another component to the store,
 - add a unit test for counterSlice, or
 - wire up a basic GitHub Actions workflow to run lint and build.
