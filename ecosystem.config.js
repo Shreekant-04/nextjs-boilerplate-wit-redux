@@ -9,7 +9,7 @@ const config = {
       instances: 1, // you can increase if needed
       env: {
         NODE_ENV: "production",
-        PORT: 3000,
+        PORT: 3030,
       },
     },
   ],
