@@ -25,7 +25,7 @@ This repository demonstrates how to integrate Redux Toolkit with the Next.js App
 
 Clone the repo and install dependencies:
 
-`powershell
+`
 npm install
 `
 
@@ -40,7 +40,7 @@ The project scripts are defined in package.json:
 
 You can run the dev server and open http://localhost:3000 to view the app:
 
-`powershell
+`
 npm run dev
 `
 
@@ -71,7 +71,7 @@ The repo includes globals.css under app/. Tailwind-related packages are present 
 
 ESLint is included; run:
 
-`powershell
+`
 npm run lint
 `
 
