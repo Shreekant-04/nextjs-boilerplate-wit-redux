@@ -1,6 +1,6 @@
 # nextjs-boilerplate-with-redux
 
-Opinionated Next.js 13+ boilerplate (app directory) with a minimal Redux Toolkit setup and a small example Counter component.
+Opinionated Next.js 16+ boilerplate (app directory) with a minimal Redux Toolkit setup and a small example Counter component.
 
 This repository demonstrates how to integrate Redux Toolkit with the Next.js App Router and provides a simple counter UI wired to the store.
 
